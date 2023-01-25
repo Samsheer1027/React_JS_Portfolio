@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             <br />
             Currently, an <span className="purple"> Undergraduate</span> majoring in
-            Artifical Intelligence and Data Science Engineering at <span className="purple"> KPRIET,</span> Coimbatore.
+            <span className="purple">Artifical Intelligence and Data Science Engineering </span> at <span className="purple"> KPRIET,</span> Coimbatore.
             I build <span className="purple"> Machine Learning</span> based models and develop full stack application.
             <br />
             <br />
