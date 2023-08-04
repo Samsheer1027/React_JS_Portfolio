@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  ""C:\Users\samsh\Downloads\My_resume_A.pdf"";
+  "C:\Users\samsh\Downloads\My_resume_A.pdf";
 
 
 function ResumeNew() {
